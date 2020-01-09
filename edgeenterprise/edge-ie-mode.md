@@ -40,6 +40,8 @@ The following prerequisites apply to using Microsoft Edge with IE mode. For the 
 
 2. The Microsoft Edge administrative template. For more information, see [Configure Microsoft Edge](https://docs.microsoft.com/DeployEdge/configure-microsoft-edge).
 
+3. Internet Explorer 11 needs to be enabled in Windows Features
+
 ## What is IE mode?
 
 IE mode on Microsoft Edge is a simplified experience that combines a modern rendering engine and compatibility with legacy sites that require Internet Explorer in a single browser. IE mode provides an integrated browsing experience in Microsoft Edge, using the integrated Chromium engine for modern sites and leveraging Internet Explorer 11 (IE11) for legacy sites that require the Trident MSHTML engine.
